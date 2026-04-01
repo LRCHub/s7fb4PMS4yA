@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "MONSTER DANCE",
+  "base_artist": "KEYTALK",
+  "createdAt": "2026-04-01T01:51:39.052294Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Monster Dance",
+      "artist": "Hi-5",
+      "has_synced": false,
+      "path": "select/01_Happy_Monster_Dance_Hi-5.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONSTER DANCE",
+      "artist": "KEYTALK",
+      "has_synced": true,
+      "path": "select/02_MONSTER_DANCE_KEYTALK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MONSTER DANCE (Live At Nippon Budokan / 2023)",
+      "artist": "KEYTALK",
+      "has_synced": false,
+      "path": "select/03_MONSTER_DANCE_(Live_At_Nippon_Budokan___2023)_KEYTALK.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Monster Dance",
+      "artist": "Little Baby Bum Nursery Rhyme Friends",
+      "has_synced": false,
+      "path": "select/04_The_Monster_Dance_Little_Baby_Bum_Nursery_Rhyme_Friends.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONSTER DANCE",
+      "artist": "KEYTALK",
+      "has_synced": false,
+      "path": "select/pl_01_MONSTER_DANCE_KEYTALK.txt"
+    }
+  ]
+}
